@@ -1,0 +1,2 @@
+this keylogger will store every keyevent in the keyboard in the SystemErrors.txt file 
+Note : the .txt file have fake error logs so the keystrokes will be stored in the end of the file so the victim doesn't see them :)
